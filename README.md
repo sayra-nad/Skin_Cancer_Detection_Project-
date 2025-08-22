@@ -1,1 +1,1 @@
-# Skin_Cancer_Detection_Project-
+# Skin-Cancer-Detection-Project
